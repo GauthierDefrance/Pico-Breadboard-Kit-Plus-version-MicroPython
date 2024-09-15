@@ -29,6 +29,9 @@ It works, but don't do it. It won't fit correctly, you will have to make the hol
 
 ## I used the code of many peoples here is their github
 Their codes are pretty nice, don't be scared to check it
-https://github.com/antirez/ST77xx-pure-MP
+
+https://github.com/antirez/ST77xx-pure-MP : his library allows to controls the ST7796 screen. Was pretty hard to found.
+
+
 https://github.com/devbis/st7789py_mpy
 https://github.com/robsoncouto/arduino-songs
