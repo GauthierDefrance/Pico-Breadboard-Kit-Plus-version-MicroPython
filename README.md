@@ -35,5 +35,5 @@ https://github.com/devbis/st7789py_mpy
 https://github.com/robsoncouto/arduino-songs
 
 https://github.com/antirez/ST77xx-pure-MP
-his library allows to controls the ST7796 screen. Was pretty hard to found.
+his reworked library allows to controls the ST7796 screen. Was pretty hard to found.
 ```
