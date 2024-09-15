@@ -21,6 +21,9 @@ git add
 git commit
 ```
 
+The joystick in the kit is really unpleasant, i suggest you to buy another.
+I personnally added a PSP2000 Joystick cap on mine.
+It works, but don't do it. It won't fit correctly, you will have to make the hole bigger and use glue.
 
 ## I used the code of many peoples here is their github
 Their codes are pretty nice, don't be scared to check it
